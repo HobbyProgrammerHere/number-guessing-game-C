@@ -1,0 +1,6 @@
+1. What happens if the user enters a number less than 1 or greater than 100?
+
+2. What happens if the user types text (like "FIVE") instead of a number?
+
+3. What's the maximum number of guesses needed to always guess a number
+ between 1 and 100 (in this program)?
